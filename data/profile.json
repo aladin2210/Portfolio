@@ -1,6 +1,6 @@
 {
-    "name": "Alvin Adi Nugroho - Electronic Engineering Student",
-    "description": "Dedicated and dynamic Computer Engineer with a passion for teaching and sharing knowledge. Possessing extensive experience in both industry and academia, with a solid foundation in computer engineering principles and technologies. Proven track record of delivering engaging lectures and fostering an interactive learning environment conducive to student success. Adept at integrating real-world examples and practical applications into curriculum to enhance student understanding. Committed to staying abreast of emerging trends in computer engineering and incorporating them into instructional materials. Seeking to leverage expertise in computer engineering and passion for education to inspire and empower the next generation of engineers.",
+    "name": "Alvin Adi Nugroho - Mahasiswa Aktif Teknik Elektro",
+    "description": "Mahasiswa aktif jurusan Teknik Elektro Prodi D3-Teknik Elektronika Politeknik Negeri Semarang",
     "profileImage": "images/profile.jpg",
     "email": "alvinadi2210@gmail.com",
     "phone": "+62 81215335810",
@@ -24,14 +24,14 @@
 			"icon": "fas fa-file-pdf"
 	},
     "skills": [
-        {"name": "Biomedical Engineering", "icon": "fas fa-heart-pulse", "level": 90},
-        {"name": "Front-end IC Design", "icon": "fas fa-microchip", "level": 70},
-        {"name": "Internet of Things", "icon": "fas fa-wifi", "level": 90},
-        {"name": "Hardware Design", "icon": "fas fa-desktop", "level": 90},
-	{"name": "Hardware Programming", "icon": "fas fa-c", "level": 90},
-        {"name": "Web Programming", "icon": "fab fa-js", "level": 85},
-	{"name": "Project Management", "icon": "fas fa-list-check", "level": 95},
-	{"name": "Academic Writing", "icon": "fas fa-pen", "level": 90},
-	{"name": "Foreign Languages", "icon": "fas fa-language", "level": 85}
+        {"name": "Biomedical Engineering", "icon": "fas fa-heart-pulse", "level": 10},
+        {"name": "Front-end IC Design", "icon": "fas fa-microchip", "level": 10},
+        {"name": "Internet of Things", "icon": "fas fa-wifi", "level": 10},
+        {"name": "Hardware Design", "icon": "fas fa-desktop", "level": 10},
+	{"name": "Hardware Programming", "icon": "fas fa-c", "level": 10},
+        {"name": "Web Programming", "icon": "fab fa-js", "level": 10},
+	{"name": "Project Management", "icon": "fas fa-list-check", "level": 10},
+	{"name": "Academic Writing", "icon": "fas fa-pen", "level": 10},
+	{"name": "Foreign Languages", "icon": "fas fa-language", "level": 10}
     ]
 }
