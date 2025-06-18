@@ -1,6 +1,6 @@
 {
     "name": "Alvin Adi Nugroho - Mahasiswa Aktif Teknik Elektro",
-    "description": "Mahasiswa aktif jurusan Teknik Elektro Prodi D3-Teknik Elektronika Politeknik Negeri Semarang",
+    "description": "Mahasiswa aktif jurusan Teknik Elektro Prodi D3-Teknik Elektronika Politeknik Negeri Semarang. Berpengalaman dalam mengembangkan berbagai proyek berbasis ESP32, seperti sistem PID untuk pengendalian suhu dan kelembapan, integrasi dengan HMI DWIN, serta penerapan sensor dan aktuator untuk sistem cerdas. Menguasai pemrograman mikrokontroler menggunakan Arduino IDE, serta mampu merancang sistem non-blocking, komunikasi serial, dan antarmuka web berbasis HTML/JavaScript. Proyek unggulan saya adalah inkubator bayi otomatis yang menggabungkan kontrol suhu kulit dengan sensor YSI400, kontrol kelembapan, dan monitoring real-time. Saya terus belajar dan tertarik untuk mengembangkan sistem berbasis IoT, SCADA mini, dan sistem kontrol industri berbasis PLC.",
     "profileImage": "images/profile.png",
     "email": "alvinadi2210@gmail.com",
     "phone": "+62 81215335810",
@@ -25,7 +25,7 @@
 	},
     "skills": [
         {"name": "Biomedical Engineering", "icon": "fas fa-heart-pulse", "level": 10},
-        {"name": "Front-end IC Design", "icon": "fas fa-microchip", "level": 10},
+        {"name": "PCB Design", "icon": "fas fa-microchip", "level": 10},
         {"name": "Internet of Things", "icon": "fas fa-wifi", "level": 10},
         {"name": "Hardware Design", "icon": "fas fa-desktop", "level": 10},
 	{"name": "Hardware Programming", "icon": "fas fa-c", "level": 10},
