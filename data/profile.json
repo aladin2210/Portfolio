@@ -30,7 +30,7 @@
         {"name": "Hardware Design", "icon": "fas fa-desktop", "level": 10},
 	{"name": "Hardware Programming", "icon": "fas fa-c", "level": 10},
         {"name": "Web Programming", "icon": "fab fa-js", "level": 10},
-	{"name": "Project Management", "icon": "fas fa-list-check", "level": 10},
+	{"name": "PLC Ladder Diagram", "icon": "fas fa-cogs", "level": 10},
 	{"name": "Academic Writing", "icon": "fas fa-pen", "level": 10},
 	{"name": "Foreign Languages", "icon": "fas fa-language", "level": 10}
     ]
