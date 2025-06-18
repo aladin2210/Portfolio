@@ -4,7 +4,7 @@
         "year": "2024",
         "partner": "PT Astra Otoparts Divisi Winteq",
         "role": "Electrical Engineer",
-        "description": "Merancang PCB dan memprogram ESP23S3 pada Autoclave untuk mengontrol suhu, tekanan, dan user interface hmmi nextion.",
+        "description": "Merancang PCB dan memprogram ESP23S3 pada Autoclave untuk mengontrol suhu, tekanan, dan user interface hmi nextion.",
         "image": "images/autoclave.png",
         "link": "https://example.com/solar-water"
     },
@@ -18,12 +18,12 @@
         "link": "https://example.com/assembly-optimization"
     },
 	{
-        "title": "Contactless Vital Signs Kiosk in Intelligent Building",
-        "year": "2021",
-        "partner": "Tech Manufacturing Inc.",
-        "role": "Project Lead",
-        "description": "Implemented robotic automation in assembly line, increasing production efficiency by 30% while reducing defects by 25%.",
-        "image": "images/project3.png",
+        "title": "Baby Incubator",
+        "year": "2024",
+        "partner": "PT Astra Otoparts Divisi Winteq",
+        "role": "Electrical Engineer",
+        "description": "Merancang PCB dan memprogram ESP32S3 pada Baby Incubator untuk mengontrol suhu, kelembapan, dan user interface hmi dwin.",
+        "image": "images/baby-incubator.png",
         "link": "https://example.com/assembly-optimization"
     },
     {
