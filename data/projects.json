@@ -1,11 +1,10 @@
 [
     {
-        "title": "FPGA-based System for Continuous Vital Signs Monitoring",
-        "year": "2022",
-        "fund": "$50,000 NSF Grant",
-        "partner": "Clean Water Initiative",
-        "role": "Lead Engineer",
-        "description": "Developed a portable, solar-powered water purification system for rural communities. Achieved 99.9% purification efficiency.",
+        "title": "Autoclave",
+        "year": "2024",
+        "partner": "PT Astra Otoparts Divisi Winteq",
+        "role": "Electrical Engineer",
+        "description": "Merancang PCB dan memprogram ESP23S3 pada alat kesehatan Autoclave.",
         "image": "images/project1.png",
         "link": "https://example.com/solar-water"
     },
